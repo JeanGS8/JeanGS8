@@ -1,5 +1,5 @@
 <div align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanGS8&show_icons=true&theme=tokyonight&count_private=t"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanGS8&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGS8&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
